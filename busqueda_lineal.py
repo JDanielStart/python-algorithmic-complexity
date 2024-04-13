@@ -1,6 +1,6 @@
 import random
 
-# O(n) lineal
+# O(n) lineal efficient for small data sets
 def busqueda_lineal(lista, objetivo):
     match = False
 
