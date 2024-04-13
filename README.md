@@ -15,3 +15,6 @@ Ce dépôt se concentre sur la **complexité algorithmique**, l'**abstraction**,
 ### Sobre el Repositorio
 
 Este repositorio se centra en la **complejidad algorítmica**, la **abstracción**, la **notación asintótica (big-0)** y las **clases de complejidad algorítmica**. Cubre algoritmos de búsqueda como la *búsqueda lineal* y la *búsqueda binaria*, así como algoritmos de ordenación como el *ordenamiento de burbuja*, el *ordenamiento por inserción* y el *ordenamiento por mezcla*. Además, aborda los **entornos virtuales** y técnicas de **optimización**.
+
+--
+
