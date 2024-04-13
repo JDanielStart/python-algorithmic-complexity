@@ -1,6 +1,6 @@
 import random
 
-# O(log n) logaritmica
+# O(log n) logarithmic
 def busqueda_binaria(lista, comienzo, final, objetivo):
     if comienzo > final: # O(1)
         return False
