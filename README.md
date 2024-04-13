@@ -1,16 +1,21 @@
 # python-algorithmic-complexity
 
+
 ### About the Repository
 
 This repository focuses on **algorithmic complexity**, **abstraction**, **asymptotic notation**, and **types of algorithmic complexity**. It covers search algorithms like *linear search* and *binary search*, as well as sorting algorithms including *bubble sort*, *insertion sort*, and *merge sort*. Additionally, it delves into **virtual environments** and **optimization techniques**.
 
 ---
 
+
+
 ### À propos du Dépôt
 
 Ce dépôt se concentre sur la **complexité algorithmique**, l'**abstraction**, la **notation asymptotique** et les **types de complexité algorithmique**. Il couvre des algorithmes de recherche comme la *recherche linéaire* et la *recherche binaire*, ainsi que des algorithmes de tri tels que le *tri à bulles*, le *tri par insertion* et le *tri fusion*. De plus, il aborde les **environnements virtuels** et les techniques d'**optimisation**.
 
 ---
+
+
 
 ### Sobre el Repositorio
 
